@@ -1,6 +1,5 @@
 //them thu vien
 #include <stdio.h>
-
 //hàm main chính de chay chuong trinh
 int main(){
 	//in ra màn hình dòng chu Hello world
